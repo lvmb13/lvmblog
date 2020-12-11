@@ -1,9 +1,9 @@
 baseURL = "https://lvmblog.netlify.app/"
-title = "Hugo Theme Fuji"
+title = "Lvmb 🐑"
+enableEmoji = true 
 
 theme = "hugo-theme-fuji"
 hasCJKLanguage = true
-enableEmoji = true
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
@@ -32,8 +32,7 @@ paginate = 10
 
 [params]
   author = "DSRKafuU" # You can also set author in post front matter individually
-  subTitle = "A minimal Hugo theme."
-
+  subTitle = "Based and Redpilled Gamer"
   # Source URL of the website, will appear in the footer
   sourceURL = "https://github.com/itsme/my_blog"
 
@@ -115,19 +114,19 @@ paginate = 10
 
 [menu]
   [[menu.nav]]
-    name = "Home"
+    name = "Home 메인"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Archives"
+    name = "Archives 아카이브"
     url = "/archives/"
     weight = 2
   [[menu.nav]]
-    name = "About"
+    name = "About 어바웃"
     url = "/about/"
     weight = 3
   [[menu.nav]]
-    name = "Search"
+    name = "Search 검색"
     url = "/search/"
     weight = 4
   [[menu.nav]]
@@ -137,13 +136,10 @@ paginate = 10
 
   [[menu.link]]
     name = "GitHub"
-    url = "https://github.com/amzrk2"
+    url = "https://github.com/lvmb13"
     weight = 1
   [[menu.link]]
     name = "Twitter"
-    url = "https://twitter.com/amzrk2"
+    url = "https://twitter.com/lvmb13"
     weight = 2
-  [[menu.link]]
-    name = "bilibili"
-    url = "https://space.bilibili.com/19767474"
-    weight = 3
+

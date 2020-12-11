@@ -13,7 +13,7 @@ The [`emojify`](https://gohugo.io/functions/emojify/) function can be called dir
 
 To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
 
-`:s ee_no_evil:[Remove the space]` :see_no_evil: `:h ear_no_evil:[Remove the space]` :hear_no_evil: `:s peak_no_evil:[Remove the space]` :speak_no_evil:
+`:s ee_no_evil:[Remove the space]` :see_no_evil: `:h ear_no_evil:[Remove the space]` :hear_no_evil: `:s peak_no_evil:[Remove the space]` :speak_no_evil: :ram:
 
 <!--more-->
 
