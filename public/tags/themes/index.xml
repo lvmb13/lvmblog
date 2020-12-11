@@ -6,7 +6,16 @@
     <description>Recent content in themes on Lvmb 🐑</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lvmblog.netlify.app/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lvmblog.netlify.app/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>r markdown posting</title>
+      <link>https://lvmblog.netlify.app/post/2020-12-11-r-markdown-posting/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lvmblog.netlify.app/post/2020-12-11-r-markdown-posting/</guid>
+      <description>This is R markdown 이렇게 R 코드를 바로 인용할 수 있다. (56^19)*5 ## [1] 8.21377e+33 A=c(1,2,3,4,5) mean(A) ## [1] 3 콘솔창에 install.packages(“reticulate”)을 입력하면… 파이썬도 이렇게 쓸 수 있다. z=[1,2,3] for y in z: print(y*5) ## 5 ## 10 ## 15</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax</title>
       <link>https://lvmblog.netlify.app/post/markdown-syntax/</link>

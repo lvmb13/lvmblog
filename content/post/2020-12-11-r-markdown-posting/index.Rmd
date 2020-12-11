@@ -1,0 +1,10 @@
+---
+title: r markdown posting
+author: ''
+date: '2020-12-11'
+slug: r-markdown-posting
+categories: []
+tags: []
+---
+
+this is r markdown posting

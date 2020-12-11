@@ -54,7 +54,7 @@ paginate = 10
   showLicenseInFooter = false
 
   # License at the end of each post
-  showLicense = true
+  showLicense = false
   showToc = true
 
   # Copyright
@@ -120,19 +120,31 @@ paginate = 10
   [[menu.nav]]
     name = "Archives 아카이브"
     url = "/archives/"
-    weight = 2
+    weight = 3
+     [[menu.nav]]
+    name = "Blog 블로그"
+    url = "/post/"
+    weight = 4
+     [[menu.nav]]
+    name = "Library 라이브러리"
+    url = "/library/"
+    weight = 5
+    [[menu.nav]]
+    name = "Encyclopedia 대백과"
+    url = "/encyclopedia/"
+    weight = 5
   [[menu.nav]]
     name = "About 소개"
     url = "/about/"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     name = "Search 검색"
     url = "/search/"
-    weight = 4
+    weight = 6
   [[menu.nav]]
     name = "RSS"
     url = "/index.xml"
-    weight = 5
+    weight = 7
 
   [[menu.link]]
     name = "GitHub"

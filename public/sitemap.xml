@@ -4,21 +4,36 @@
   
   <url>
     <loc>https://lvmblog.netlify.app/tags/css/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lvmblog.netlify.app/tags/html/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lvmblog.netlify.app/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lvmblog.netlify.app/tags/markdown/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvmblog.netlify.app/post/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvmblog.netlify.app/post/2020-12-11-r-markdown-posting/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvmblog.netlify.app/tags/themes/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvmblog.netlify.app/tags/html/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,17 +43,12 @@
   </url>
   
   <url>
-    <loc>https://lvmblog.netlify.app/post/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lvmblog.netlify.app/tags/themes/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lvmblog.netlify.app/about/</loc>
+    <lastmod>2020-04-11T19:15:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvmblog.netlify.app/encyclopedia/</loc>
     <lastmod>2020-04-11T19:15:32+08:00</lastmod>
   </url>
   
@@ -84,6 +94,10 @@
   
   <url>
     <loc>https://lvmblog.netlify.app/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lvmblog.netlify.app/library/</loc>
   </url>
   
   <url>
