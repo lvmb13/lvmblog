@@ -122,7 +122,7 @@ paginate = 10
     url = "/archives/"
     weight = 2
   [[menu.nav]]
-    name = "About 어바웃"
+    name = "About 소개"
     url = "/about/"
     weight = 3
   [[menu.nav]]
