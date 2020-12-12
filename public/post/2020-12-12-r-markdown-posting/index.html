@@ -22,7 +22,7 @@
 <meta name="theme-color" content="#ffffff" />
 
 
-<title>Archives - Lvmb 🐑</title>
+<title>R markdown posting - Lvmb 🐑</title>
 
 
 <meta name="author" content="Lvmb" />
@@ -31,18 +31,19 @@
 <meta name="description" content="A minimal Hugo theme with nice theme color." />
 
 
-<meta property="og:title" content="Archives" />
-<meta property="og:description" content="A minimal Hugo theme with nice theme color." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.lvmb.xyz/archives/" />
+<meta property="og:title" content="R markdown posting" />
+<meta property="og:description" content="The following post is written by R markdown. Getting used to markdown language. R markdown is basically better markdown platform with more advanced pugins. With R studio, you can use useful packages by one click. 이하 포스팅은 R 마크다운으로 편집되었다. 마크다운 문법에 적응중인데 R Studio를 이용하면 기존 마크다운에 없는 기능을 블로그에 바로 적용가능" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.lvmb.xyz/post/2020-12-12-r-markdown-posting/" />
 <meta property="og:image" content="https://www.lvmb.xyz/img/og.png"/>
-
+<meta property="article:published_time" content="2020-12-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-12-12T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.lvmb.xyz/img/og.png"/>
 
-<meta name="twitter:title" content="Archives"/>
-<meta name="twitter:description" content="A minimal Hugo theme with nice theme color."/>
+<meta name="twitter:title" content="R markdown posting"/>
+<meta name="twitter:description" content="The following post is written by R markdown. Getting used to markdown language. R markdown is basically better markdown platform with more advanced pugins. With R studio, you can use useful packages by one click. 이하 포스팅은 R 마크다운으로 편집되었다. 마크다운 문법에 적응중인데 R Studio를 이용하면 기존 마크다운에 없는 기능을 블로그에 바로 적용가능"/>
 
 
 
@@ -99,30 +100,121 @@
             
             <div class="col-12 col-md-9 float-left content">
                 
-
-<div class="page-info">
-    <span>Total posts: 1</span>
-</div>
-
-
-
-<div class="post">
-    <h3 class="post-item post-title-archive">
+<article>
+    
+    <h2 class="post-item post-title">
         <a href="https://www.lvmb.xyz/post/2020-12-12-r-markdown-posting/">R markdown posting</a>
-    </h3>
-    <div class="post-item post-meta-archive">
+    </h2>
+    <div class="post-item post-meta">
         <span><i class="iconfont icon-today-sharp"></i>&nbsp;2020-12-12</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;466 words</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;No tag</span>
 
     </div>
+    
+    
+    <div class="post-content markdown-body">
+        
+<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
+
+
+<p>The following post is written by R markdown. Getting used to markdown language. R markdown is basically better markdown platform with more advanced pugins. With R studio, you can use useful packages by one click.</p>
+<p>이하 포스팅은 R 마크다운으로 편집되었다. 마크다운 문법에 적응중인데 R Studio를 이용하면 기존 마크다운에 없는 기능을 블로그에 바로 적용가능하다.</p>
+<div id="레퍼런스-연습" class="section level1">
+<h1>레퍼런스 연습</h1>
+<p><span class="citation">Hoppe (1989)</span></p>
+<p>My nibba hoppe <span class="citation">(1989)</span></p>
+<p>각주도 연습해보겠다<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p><span class="citation">(Hoppe 1989)</span></p>
+<p><span class="citation">Hoppe (1993)</span></p>
+<blockquote>
+<p>인용문</p>
+</blockquote>
+<ul>
+<li>one</li>
+<li>two</li>
+<li>three</li>
+</ul>
+</div>
+<div id="r-마크다운-설치-및-사용" class="section level1">
+<h1>R 마크다운 설치 및 사용</h1>
+<ol style="list-style-type: decimal">
+<li>R 설치</li>
+<li>R studio 설치 (아무거나)</li>
+<li>File&gt;&gt;New file&gt;&gt; R markdown 클릭 하면 자동으로 마크다운 설치</li>
+<li>콘솔창에 tinytex::install_tinytex() 입력 (Latex 설치)</li>
+<li>타이틀에</li>
+</ol>
+<pre><code>pdf_document: default
+header-includes: \usepackage{kotex}</code></pre>
+<p>입력 (한글패치)</p>
+<div id="글자예시" class="section level2">
+<h2>글자예시</h2>
+<p><em>Italics</em> <strong>bold</strong></p>
+</div>
+<div id="코딩-인용-예시" class="section level2">
+<h2>코딩 인용 예시</h2>
+<p>이렇게 R 코드를 바로 인용할 수 있다.</p>
+<pre class="r"><code>(56^19)*5</code></pre>
+<pre><code>## [1] 8.21377e+33</code></pre>
+<pre class="r"><code>A=c(1,2,3,4,5)
+mean(A)</code></pre>
+<pre><code>## [1] 3</code></pre>
+<p>콘솔창에 install.packages(“reticulate”)을 입력하면… 파이썬도 이렇게 쓸 수 있다.</p>
+<pre class="python"><code>z=[1,2,3]
+for y in z: print(y*5)</code></pre>
+<pre><code>## 5
+## 10
+## 15</code></pre>
+</div>
+<div id="자유로운-확장자-출력기능" class="section level2">
+<h2>자유로운 확장자 출력기능</h2>
+<p>R 마크다운으로 작성시 이렇게 <a href="practic.pdf">pdf 파일</a>이나 <a href="practic.html">html 파일</a>로 바로 출력가능하다.</p>
+</div>
+<div id="참조문헌" class="section level2 unnumbered">
+<h2>참조문헌</h2>
+<div id="refs" class="references">
+<div id="ref-hoppeisking">
+<p>Hoppe, Hans-Hermann. 1989. “In Defense of Extreme Rationalism: Thoughts on Donald Mccloskey’s the Rhetoric of Economics.” <em>The Review of Austrian Economics</em> 3 (1): 179–214.</p>
+</div>
+<div id="ref-hoppeisgod">
+<p>———. 1993. “Austrian Rationalism in the Age of the Decline of Positivism.” In <em>The Economics and Ethics of Private Property</em>, 209–35. Springer.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>이거 각주기능 좀 쩌는듯?<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
 </div>
 
+    </div>
+</article>
 
 
 
-
-
-
-
+<div class="post-comment" data-comment="disqus">
+    <span class="post-comment-notloaded">
+        <i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Load comments
+    </span>
+    <div id="disqus_thread" style="display: none;"></div>
+    <script>
+        function loadComment() {
+            var commentArea = document.querySelector('.post-comment');
+            var disqus_config = function () {
+                this.page.url = 'https:\/\/www.lvmb.xyz\/post\/2020-12-12-r-markdown-posting\/';
+                this.page.identifier = '2020-12-12-r-markdown-posting';
+            };
+            var s = document.createElement('script');
+            s.src = 'https://' + 'lvmblog' + '.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            document.querySelector('#disqus_thread').removeAttribute('style');
+            (document.body || document.head).appendChild(s);
+            document.querySelector('span.post-comment-notloaded').setAttribute('style', 'display: none;');
+        }
+    </script>
+</div>
 
 
             </div>
@@ -270,6 +362,8 @@
     </div>
     
     
+    
+    
   </div>
 </aside>
     </main>
@@ -290,6 +384,9 @@
 </footer>
 
     
+<script defer src="https://cdn.jsdelivr.net/combine/npm/medium-zoom@1.0.6,npm/lazysizes@5.2.2"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.21.0/components/prism-core.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.21.0/plugins/autoloader/prism-autoloader.min.js"></script>
 
 
 

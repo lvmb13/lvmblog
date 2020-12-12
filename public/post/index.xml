@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lvmb 🐑</title>
+    <link>https://www.lvmb.xyz/post/</link>
+    <description>Recent content in Posts on Lvmb 🐑</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lvmb.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R markdown posting</title>
+      <link>https://www.lvmb.xyz/post/2020-12-12-r-markdown-posting/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lvmb.xyz/post/2020-12-12-r-markdown-posting/</guid>
+      <description>The following post is written by R markdown. Getting used to markdown language. R markdown is basically better markdown platform with more advanced pugins. With R studio, you can use useful packages by one click. 이하 포스팅은 R 마크다운으로 편집되었다. 마크다운 문법에 적응중인데 R Studio를 이용하면 기존 마크다운에 없는 기능을 블로그에 바로 적용가능</description>
+    </item>
+    
+  </channel>
+</rss>
