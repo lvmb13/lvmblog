@@ -4,8 +4,27 @@ author: ''
 date: '2020-12-12'
 slug: r-markdown-posting
 categories: []
-tags: []
+tags: [R markdown, R]
+bibliography: uni.bib
 ---
+
+The following post was written by R markdown. Getting used to Markdown language. R markdown is basically better markdown platform with other plugins. With R studio, you can use all useful packages by one click. 
+
+이하 포스팅은 R 마크다운으로 작성되었다. 마크다운 문법에 익숙해지는 중. R 마크다운은 마크다운 업그레이드 버전이라고 보면 되는데 R studio로 기존에 있는 R마크다운 기능을 블로그 포스팅에 바로 적용할 수 있다.
+
+# 레퍼런스 연습
+***
+@hoppeisking
+
+My nibba hoppe [-@hoppeisking]
+
+각주도 연습해보겠다 [^각주]
+
+[^각주]: 이거 각주기능 좀 쩌는듯?
+
+[@hoppeisking]
+
+@hoppeisgod
 
 * one 
 * two 
@@ -49,4 +68,13 @@ z=[1,2,3]
 for y in z: print(y*5)
 ```
 
-[a relative link](practic.pdf) ???
+
+## 자유로운 파일출력
+
+R 마크다운으로 작성시 이렇게 바로 [pdf 파일](practic.pdf)이나 [html 파일](practic.html)파일로 변환 가능하다. 
+
+
+
+
+
+### 참조문헌
