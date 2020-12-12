@@ -120,15 +120,12 @@ paginate = 10
   [[menu.nav]]
     name = "Archives 아카이브"
     url = "/archives/"
-    weight = 3
-     [[menu.nav]]
-    name = "Blog 블로그"
-    url = "/post/"
-    weight = 4
+    weight = 2
+    
      [[menu.nav]]
     name = "Library 라이브러리"
     url = "/library/"
-    weight = 5
+    weight = 4
     [[menu.nav]]
     name = "Encyclopedia 대백과"
     url = "/encyclopedia/"
@@ -136,7 +133,7 @@ paginate = 10
   [[menu.nav]]
     name = "About 소개"
     url = "/about/"
-    weight = 2
+    weight = 3
   [[menu.nav]]
     name = "Search 검색"
     url = "/search/"
