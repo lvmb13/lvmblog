@@ -1,12 +1,11 @@
 ---
-title: "R 마크다운 문법 연습"
-author: "lvmb"
-date: '2020-12-11'
-
+title: R markdown posting
+author: ''
+date: '2020-12-12'
+slug: r-markdown-posting
+categories: []
+tags: []
 ---
-
-
-
 
 * one 
 * two 
@@ -51,4 +50,3 @@ for y in z: print(y*5)
 ```
 
 [a relative link](practic.pdf) ???
-
