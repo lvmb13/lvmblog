@@ -1,4 +1,4 @@
-baseURL = "https://lvmblog.netlify.app/"
+baseURL = "https://www.lvmb.xyz/"
 title = "Lvmb 🐑"
 enableEmoji = true 
 
@@ -81,7 +81,7 @@ paginate = 10
   # utterancesIssueTerm = "pathname"
 
   # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
-  # disqusShortname = "*********"
+   disqusShortname = "lvmblog"
   # Also use DisqusJS for accessing from Mainland China, see: https://github.com/SukkaW/DisqusJS
   # If you want to set multiple api key, see theme's README for more details
   # disqusJSApi = "https://*********/"
