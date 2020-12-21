@@ -7,8 +7,8 @@ showComments : false
 title: About 소개
 ---
 
-<img src="/./about_files/Lamb-TN.jpg" alt="The image that I randomly found from google" width="50%"/>
 
+<img src="/./about_files/Lamb-TN.jpg" alt="" width="50%"/>
 ***
 
 I'm Lvmb. I am based and redpilled gamer, and also humble zoomer. I am from Korea somewhere. Yes, I do speak Korean. That's why you see this hipster languages all around. And no, I have no opinion on KPOP and I am not going to write my words in Korean and English at every single same time. I will shitpost different subjects in different languages. So bring your google translator, stay with me, or die.
