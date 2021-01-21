@@ -6,4 +6,4 @@ draft: true
 
 * 산업사회와 그 미래 Industrial Society and Its Future([KOR](ISIF.pdf),[ENG](unabomber.pdf))
 
-업로드 테스트
+업로드 테스팅
