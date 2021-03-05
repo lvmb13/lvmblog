@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lvmb.xyz
+Token: 7a8ec71dcf5633279f8054cb01990a3150dda19337ead2e348e7d0b9f94d8afa
