@@ -1,67 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.lvmb.xyz/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/post/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/post/2021-01-20-%EC%82%B0%EC%97%85%EC%82%AC%ED%9A%8C%EC%99%80-%EA%B7%B8-%EB%AF%B8%EB%9E%98/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/tags/nrx/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/tags/%EB%B0%98%EB%8F%99%EC%A3%BC%EC%9D%98/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/post/2020-12-16-%EC%98%A4%ED%94%88/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/post/open-minded/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/post/2020-12-12-r-markdown-posting/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/about/</loc>
     <lastmod>2020-04-11T19:15:32+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/encyclopedia/</loc>
     <lastmod>2020-04-11T19:15:32+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/archives/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/library/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.lvmb.xyz/search/</loc>
   </url>
-  
 </urlset>
